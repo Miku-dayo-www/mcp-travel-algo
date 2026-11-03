@@ -1,0 +1,7 @@
+[project]
+name = "mcp-travel-algo"
+version = "0.1.0"
+dependencies = ["mcp>=2.0.0"]
+
+[project.scripts]
+mcp-travel-algo = "travel_algo_mcp:main"
